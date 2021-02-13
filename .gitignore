@@ -9,3 +9,4 @@ settings.json
 
 # PyCharm
 .idea
+venv/
